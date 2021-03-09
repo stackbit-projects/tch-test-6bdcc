@@ -36,7 +36,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Más
+          - label: Más información
             url: /features
             style: secondary
       - title: Pagá desde la app
