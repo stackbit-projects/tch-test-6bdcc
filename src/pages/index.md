@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Funcionalidades
     features:
-      - title: Feature 1
+      - title: Marketplace de restaurantes
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
