@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: CartaQR Web App
-    subtitle: Una aplicación para facilitar tu vida en restaurantes
+    subtitle: Una aplicación para facilitar tu vida en restaurantes con el
     actions:
       - label: Learn More
         url: /features
