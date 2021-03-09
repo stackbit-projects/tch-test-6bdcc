@@ -7,7 +7,7 @@ sections:
       Una aplicación para facilitar tu vida en restaurantes con el soporte de
       aplicaciones como Mercado Pago y Ualá.
     actions:
-      - label: Learn More
+      - label: Más sobre nosotros
         url: /features
         style: primary
       - label: Contact Us
