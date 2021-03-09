@@ -52,7 +52,7 @@ sections:
           - label: Aprende más
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Catálogo de restaurantes y Foro de Usuarios
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
